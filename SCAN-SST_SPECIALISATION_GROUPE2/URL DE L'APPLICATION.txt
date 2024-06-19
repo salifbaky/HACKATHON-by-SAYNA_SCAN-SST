@@ -1,0 +1,14 @@
+------------------------------------------------------
+------                                          ------
+------  https://scan-sst.xheeft.com/            ------
+------                                          ------
+------------------------------------------------------
+
+
+
+1. Scanner le Code QR pour un accès direct au formulaire de déclaration d'incident
+2. Faire la création de son compte si pas de compte
+3. se connecter
+4. déclarer un incident
+5. Un mail de notification vous sera envoyé ainsi qu'à tous les responsables
+6. ...
